@@ -41,7 +41,7 @@
 <hr>
  
  
-<table width=100% bordercolor=#000>
+<table width=70% bordercolor=#000>
 
 
 
