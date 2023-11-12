@@ -174,7 +174,7 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <img src="images/osr-connecting.png" alt="mq4" width = 100%>
 <br>
 
-<p align="justify" id="mq4">
+<p align="center" id="mq4">
 <img src="images/osr-mq4-sensor.png" alt="mq4" width = 100%>
 <br>
 <img src="images/osr-mq4-specs.png" alt="mq4" width = 100%>
@@ -195,7 +195,7 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <table width = 90%>
 <tr>
 <td align="center" colspan=2 width = 90%>
-<p align="justify" id="DS18D20">
+<p align="center" id="DS18D20">
 <img src="images/osr-DS18D20-sensor.png" alt="mq4" width = 100%>
 <br>
 <img src="images/osr-DS18D20-specs.png" alt="mq4" width = 100%>
