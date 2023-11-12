@@ -45,7 +45,7 @@
 
 
 
-<tr>
+<tr width = 90%>
 <td align="center" colspan=2>
 <p align="justify" id="about">
 <b>ABOUT O.S.R.</b>
