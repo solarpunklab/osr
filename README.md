@@ -17,7 +17,7 @@
 <details open>
   <summary style="background-color: #aaa;"><b>CONTENTS</b></summary>
   <ul>
-	<li><a href="#about">ABOUT OSR <br><br></a></li>
+	<li><a href="#about">ABOUT O.S.R. <br><br></a></li>
 	<li> <b>LEVEL 1</b></li> <ul>
 	<li><a href="#physical">Physical Computing</a></li>
 	<li><a href="#mcu">MCU vs Mini-Computer</a></li>
@@ -48,7 +48,7 @@
 <tr>
 <td align="center" colspan=2>
 <p align="justify" id="about">
-<b>ABOUT OPEN SENSOR RESEARCH</b>
+<b>ABOUT O.S.R.</b>
 <br>
 Open Sensor Research is a project by 
 <a href="http://solarpunklab.org">SOLARPUNK LAB</a> / 
