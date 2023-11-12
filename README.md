@@ -99,15 +99,16 @@ It is a real microprocessor, that is, a small computer capable of processing inf
 <table width = 90%>
 <tr>
 <td align="center" colspan=2 width = 90% >
-<img src="images/osr-esp32-vs-arduino.png" alt="compare" width = 90%>
+<img src="images/osr-esp32-vs-arduino.png" alt="compare" width = 100%>
 <br>
-<img src="images/osr-esp32-architecture.png" alt="compare" width = 90%>
-
-</td>
+<img src="images/osr-esp32-architecture.png" alt="compare" width = 100%>
 </tr>
+</table>
 
 
 
+<!-- >>>>>> TABLE <<<<< -->
+<table width = 90%>
 <tr>
 <td align="center" colspan=2 width = 90% >
 
@@ -139,7 +140,12 @@ Motors, LED lights, solenoid valves are all examples of actuators that can be co
 <br><br>
 
 </tr>
+</table>
 
+
+
+<!-- >>>>>> TABLE <<<<< -->
+<table width = 90%>
 <tr>
 <td align="center" colspan=2 width = 90% >
 <p align="justify" id="gpio">
