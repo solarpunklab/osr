@@ -123,20 +123,20 @@ While sensors transform any physical quantities into electrical signals, ACTUATO
 <br>
 Motors, LED lights, solenoid valves are all examples of actuators that can be controlled by microcontrollers to perform actions in the real world.
 <br><br>
-<img src="images/osr-SENSORS-slide.png" alt="physical" width = 90%>
+<img src="images/osr-SENSORS-slide.png" alt="physical" width = 100%>
 <br>
 <p align = "center"> Examples of SENSORS
 <br><br>
-<img src="images/osr-sensors.png" alt="physical" width = 90%>
+<img src="images/osr-sensors.png" alt="physical" width = 100%>
 <br>
 
 <hr>
 
 <p align = "center"> Examples of ACTUATORS
 <br><br>
-<img src="images/osr-act-movement.png" alt="act1" width = 90%>
+<img src="images/osr-act-movement.png" alt="act1" width = 100%>
 <br>
-<img src="images/osr-act-lightsound.png" alt="act1" width = 90%>
+<img src="images/osr-act-lightsound.png" alt="act1" width = 100%>
 <br><br>
 
 </tr>
@@ -157,16 +157,19 @@ The GPIO is a hardware computer interface, available on microcontrollers and mic
 A series of pins on the microcontroller board allow you to connect to the functions implemented by this interface within the chip / microprocessor.
 <br>
 Each microcontroller has its own specific set of GPIOs with specific functions, often called "pinout".
-
-
 <br><br>
-
-<img src="images/osr-doit-pinout2.png" alt="pinout" width = 90%>
+<img src="images/osr-doit-pinout2.png" alt="pinout" width = 100%>
 <br>
-<img src="images/osr-doit-expander.png" alt="doitexp" width =90%>
+<img src="images/osr-doit-expander.png" alt="doitexp" width =100%>
 <br>
 </tr>
+</table>
 
+
+<!-- >>>>>> TABLE <<<<< -->
+<table width = 90%>
+<tr>
+<td align="center" colspan=2 width = 90% >
 <tr>
 <td align="center" colspan=2 width = 90% >
 
