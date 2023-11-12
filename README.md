@@ -162,6 +162,8 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <br>
 <img src="images/osr-doit-expander.png" alt="doitexp" width =100%>
 <br>
+<img src="images/osr-selectboard.png" alt="doitexp" width =100%>
+<br>
 </tr>
 </table>
 
@@ -272,6 +274,8 @@ https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/STM32/pack
 <img src="images/osr-library.png" alt="boards" width = 100%>
 <br><br>
 <img src="images/osr-libraryname.png" alt="boards" width = 100%>
+<br><br>
+<img src="images/osr-select-board.png" alt="boards" width = 100%>
 <br><br>
 
 </tr>
