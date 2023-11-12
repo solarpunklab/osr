@@ -43,7 +43,7 @@
 <td align = "justify" width = 90% colspan=2>
 <p align="justify" id="about">
 <b>ABOUT O.S.R.</b>
-<br>
+<br><br>
 Open Sensor Research is a project by 
 <a href="http://solarpunklab.org">SOLARPUNK LAB</a> / 
 <a href="http://hackteria.org">HACKTERIA</a> 
@@ -55,23 +55,11 @@ The documentation offered in this repository is mainly used as support for a ser
  
  
  
-<table width=100% bordercolor=#000>
-<tr>
-<td align="center" colspan=2 width = 90% >
-<p align="justify" id="about">
-<b>ABOUT O.S.R.</b>
-<br>
-Open Sensor Research is a project by 
-<a href="http://solarpunklab.org">SOLARPUNK LAB</a> / 
-<a href="http://hackteria.org">HACKTERIA</a> 
-aimed at the promotion and diffusion of DIY practical know-how to use sensors and microcontrollers especially for eco -oriented projects. 
-<br> 
-The documentation offered in this repository is mainly used as support for a series of workshops to introduce newbies as well as specialists and researchers to Physical Computing and DIY environmental monitoring. <br><br>
-</tr>
 
 
+<table width = 90%>
 <tr>
-<td align="center" colspan=2 width = 90% >
+<td align = "justify" width = 90% colspan=2>
 <p align="justify" id="physical">
 <img src="images/osr-physical.png" alt="Logo" width = 90%>
 <br>
@@ -90,6 +78,9 @@ To this end, technologies are adopted based on integrated software and hardware 
 <img src="images/osr-arduino-rpi.png" alt="arduino" width = 90%>
 <br>
 </tr>
+</table>
+
+<table>
 
 <tr>
 <td align="center" colspan=1 width = 20%>
