@@ -37,7 +37,7 @@
 
 <br><br><hr> <br><br>
 
- 
+<!-- >>>>>> TABLE <<<<< -->
 <table width = 90%>
 <tr>
 <td align = "justify" width = 90% colspan=2>
@@ -56,32 +56,32 @@ The documentation offered in this repository is mainly used as support for a ser
  
  
 
-
+<!-- >>>>>> TABLE <<<<< -->
 <table width = 90%>
 <tr>
 <td align = "justify" width = 90% colspan=2>
 <p align="justify" id="physical">
-<img src="images/osr-physical.png" alt="Logo" width = 90%>
+<img src="images/osr-physical.png" alt="Logo" width = 100%>
 <br>
 The term <b>Physical Computing</b> defines, in a broad sense, a field of studies and practices aimed at building interactive physical systems.
 <br>
 To this end, technologies are adopted based on integrated software and hardware devices capable of sensing and responding to stimuli coming from the surrounding world.
 
 <br><br>
-<img src="images/osr-physical2.png" alt="Logo" width = 90%>
+<img src="images/osr-physical2.png" alt="Logo" width = 100%>
 <br>
 
 <hr>
 <p align="justify" id="mcu">
 <b>MCU vs MiniComputer</b>
 <br>
-<img src="images/osr-arduino-rpi.png" alt="arduino" width = 90%>
+<img src="images/osr-arduino-rpi.png" alt="arduino" width = 100%>
 <br>
 </tr>
 </table>
 
-<table>
-
+<!-- >>>>>> TABLE <<<<< -->
+<table width = 90%>
 <tr>
 <td align="center" colspan=1 width = 20%>
 <img src="images/osr-mcu-esp32.png" alt="mcu" width = 90%></td>
@@ -90,9 +90,13 @@ The microcontroller (MCU) is a device generally used in integrated systems to ca
 <br>
 It is a real microprocessor, that is, a small computer capable of processing information coming from both digital interfaces and analog inputs (for example sensors) and responding with output signals to analog actuators or other digital interfaces, including WiFi communications and Bluetooth.
 
-</td>
 </tr>
+</table>
 
+
+
+<!-- >>>>>> TABLE <<<<< -->
+<table width = 90%>
 <tr>
 <td align="center" colspan=2 width = 90% >
 <img src="images/osr-esp32-vs-arduino.png" alt="compare" width = 90%>
