@@ -212,7 +212,7 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <tr>
 <td align="center" colspan=2 id="bme280" width = 90% >
 <br>
-<img src="images/osr-bme280-sensor.png" alt="bme" width = 100%>
+<img src="images/osr-BME280-sensor.png" alt="bme" width = 100%>
 <br>
 <img src="images/osr-BME-BMP280.png" alt="bmp" width = 100%>
 <br>
@@ -249,7 +249,7 @@ COPY / PASTE the text below
 <!-- >>>>>> TABLE <<<<< -->
 <table width = 90%>
 <tr>
-<td align="left" colspan=2 id="URLS" width = 90% >
+<td align="left" colspan=2 id="URLS" width = 50% >
 
 	https://dl.espressif.com/dl/package_esp32_index.json,
 	http://arduino.esp8266.com/stable/package_esp8266com_index.json,
