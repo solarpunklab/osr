@@ -41,6 +41,9 @@
 <table width = 90%>
 <tr>
 <td align = "justify" width = 90% colspan=2>
+<p align="justify" id="about">
+<b>ABOUT O.S.R.</b>
+<br>
 Open Sensor Research is a project by 
 <a href="http://solarpunklab.org">SOLARPUNK LAB</a> / 
 <a href="http://hackteria.org">HACKTERIA</a> 
