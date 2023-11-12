@@ -65,21 +65,21 @@ The term <b>Physical Computing</b> defines, in a broad sense, a field of studies
 To this end, technologies are adopted based on integrated software and hardware devices capable of sensing and responding to stimuli coming from the surrounding world.
 
 <br><br>
-<img src="images/osr-physical2.png" alt="Logo" width = 100%>
+<img src="images/osr-physical2.png" alt="Logo" width = 90%>
 <br>
 
 <hr>
 <p align="justify" id="mcu">
 <b>MCU vs MiniComputer</b>
 <br>
-<img src="images/osr-arduino-rpi.png" alt="arduino" width = 100%>
+<img src="images/osr-arduino-rpi.png" alt="arduino" width = 90%>
 <br>
 </tr>
 
 <tr>
-<td align="center" colspan=1 width = 40%>
-<img src="images/osr-mcu-esp32.png" alt="mcu" width = 100%></td>
-<td align="justify" colspan=1 width = 50% >
+<td align="center" colspan=1 width = 20%>
+<img src="images/osr-mcu-esp32.png" alt="mcu" width = 90%></td>
+<td align="justify" colspan=1 >
 The microcontroller (MCU) is a device generally used in integrated systems to carry out specific digital control applications.
 <br>
 It is a real microprocessor, that is, a small computer capable of processing information coming from both digital interfaces and analog inputs (for example sensors) and responding with output signals to analog actuators or other digital interfaces, including WiFi communications and Bluetooth.
@@ -89,9 +89,9 @@ It is a real microprocessor, that is, a small computer capable of processing inf
 
 <tr>
 <td align="center" colspan=2 width = 90% >
-<img src="images/osr-esp32-vs-arduino.png" alt="compare" width = 100%>
+<img src="images/osr-esp32-vs-arduino.png" alt="compare" width = 90%>
 <br>
-<img src="images/osr-esp32-architecture.png" alt="compare" width = 100%>
+<img src="images/osr-esp32-architecture.png" alt="compare" width = 90%>
 
 </td>
 </tr>
@@ -112,20 +112,20 @@ While sensors transform any physical quantities into electrical signals, ACTUATO
 <br>
 Motors, LED lights, solenoid valves are all examples of actuators that can be controlled by microcontrollers to perform actions in the real world.
 <br><br>
-<img src="images/osr-SENSORS-slide.png" alt="physical" width = 100%>
+<img src="images/osr-SENSORS-slide.png" alt="physical" width = 90%>
 <br>
 <p align = "center"> Examples of SENSORS
 <br><br>
-<img src="images/osr-sensors.png" alt="physical" width = 100%>
+<img src="images/osr-sensors.png" alt="physical" width = 90%>
 <br>
 
 <hr>
 
 <p align = "center"> Examples of ACTUATORS
 <br><br>
-<img src="images/osr-act-movement.png" alt="act1" width = 100%>
+<img src="images/osr-act-movement.png" alt="act1" width = 90%>
 <br>
-<img src="images/osr-act-lightsound.png" alt="act1" width = 100%>
+<img src="images/osr-act-lightsound.png" alt="act1" width = 90%>
 <br><br>
 
 </tr>
@@ -145,31 +145,31 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 
 <br><br>
 
-<img src="images/osr-doit-pinout2.png" alt="pinout" width = 100%>
+<img src="images/osr-doit-pinout2.png" alt="pinout" width = 90%>
 <br>
-<img src="images/osr-doit-expander.png" alt="doitexp" width = 100%>
+<img src="images/osr-doit-expander.png" alt="doitexp" width =90%>
 <br>
 </tr>
 
 <tr>
 <td align="center" colspan=2 width = 90% >
 
-<img src="images/osr-connecting.png" alt="mq4" width = 100%>
+<img src="images/osr-connecting.png" alt="mq4" width = 90%>
 <br>
 
 <p align="justify" id="mq4">
-<img src="images/osr-mq4-sensor.png" alt="mq4" width = 100%>
+<img src="images/osr-mq4-sensor.png" alt="mq4" width = 90%>
 <br>
-<img src="images/osr-mq4-specs.png" alt="mq4" width = 100%>
+<img src="images/osr-mq4-specs.png" alt="mq4" width = 90%>
 <br>
-<img src="images/osr-mq4-connect.png" alt="mq4-connect" width = 100%>
+<img src="images/osr-mq4-connect.png" alt="mq4-connect" width = 90%>
 <br>
 
 <a href="code/OSR_MQ_SENSOR/OSR_MQ_SENSOR.ino">OSR_MQ_SENSOR.ino</a>
 
 <br><br>
 
-<img src="images/osr-adc-calibration.png" alt="mq4-connect" width = 100%>
+<img src="images/osr-adc-calibration.png" alt="mq4-connect" width = 90%>
 <br>
 <a href="https://github.com/e-tinkers/esp32-adc-calibrate">https://github.com/e-tinkers/esp32-adc-calibrate</A>
 <br><br>
@@ -179,11 +179,11 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <tr>
 <td align="center" colspan=2 width = 90%>
 <p align="justify" id="DS18D20">
-<img src="images/osr-DS18D20-sensor.png" alt="mq4" width = 100%>
+<img src="images/osr-DS18D20-sensor.png" alt="mq4" width = 90%>
 <br>
-<img src="images/osr-DS18D20-specs.png" alt="mq4" width = 100%>
+<img src="images/osr-DS18D20-specs.png" alt="mq4" width = 90%>
 <br>
-<img src="images/osr-DS18D20-connect.png" alt="mq4" width = 100%>
+<img src="images/osr-DS18D20-connect.png" alt="mq4" width = 90%>
 <br>
 <a href="code/OSR_DS18D20/OSR_DS18D20.ino">OSR_DS18D20.ino</a>
 <br><br>
@@ -192,11 +192,11 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <tr>
 <td align="center" colspan=2 id="bme280" width = 90% >
 <br>
-<img src="images/osr-bme280-sensor.png" alt="Logo" width = 100%>
+<img src="images/osr-bme280-sensor.png" alt="Logo" width = 90%>
 <br>
-<img src="images/osr-BME-BMP280.png" alt="Logo" width = 100%>
+<img src="images/osr-BME-BMP280.png" alt="Logo" width = 80%>
 <br>
-<img src="images/osr-BME280-connect.png" alt="Logo" width = 100%>
+<img src="images/osr-BME280-connect.png" alt="Logo" width = 90%>
 <br>
 <a href="code/OSR_BMP280/OSR_BMP280.ino">OSR_BMP280.ino</a>
 <br><br>
@@ -206,17 +206,17 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <tr>
 <td align="center" colspan=2 id="arduino" width = 90% >
 <br>
-<img src="images/osr-arduino-install.png" alt="install" width = 100%>
+<img src="images/osr-arduino-install.png" alt="install" width = 90%>
 <br>
-<img src="images/osr-drivers.png" alt="drivers" width = 100%>
+<img src="images/osr-drivers.png" alt="drivers" width = 90%>
 <br>
 <a href="https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads">DOWNLOAD ESP32 DRIVERS</a>
 <br><br>
-<img src="images/osr-arduino-ide.png" alt="ide" width = 100%>
+<img src="images/osr-arduino-ide.png" alt="ide" width = 90%>
 <br>
 <a href="https://www.arduino.cc/en/software">ARDUINO IDE DOWNLOAD + INSTALL</a>
 <br><br>
-<img src="images/osr-boardpref.png" alt="manager" width = 100%>
+<img src="images/osr-boardpref.png" alt="manager" width = 90%>
 <br><br>
 in "Addtional boards manager URLs" <br>
 COPY / PASTE the text below 
@@ -235,13 +235,13 @@ COPY / PASTE the text below
 
 
 <br><hr>
-<img src="images/osr-sketches.png" alt="sketches" width = 100%>
+<img src="images/osr-sketches.png" alt="sketches" width = 90%>
 <br><br>
-<img src="images/osr-boards.png" alt="boards" width = 100%>
+<img src="images/osr-boards.png" alt="boards" width = 90%>
 <br><br>
-<img src="images/osr-library.png" alt="boards" width = 100%>
+<img src="images/osr-library.png" alt="boards" width = 90%>
 <br><br>
-<img src="images/osr-libraryname.png" alt="boards" width = 100%>
+<img src="images/osr-libraryname.png" alt="boards" width = 90%>
 <br><br>
 
 </tr>
