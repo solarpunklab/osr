@@ -27,7 +27,7 @@
 	<li><a href="#DS18D20"> DS18D20 Temperature sensor</a></li>
 	<li><a href="#bme280"> BMP / BME280 I2C SENSOR</a></li>
   </ul>
-   
+   <br><br>
    <li><b> GENERAL</b> </li>
    <ul>
    		<li><a href="#arduino"> ARDUINO INSTALL</a> </li>
