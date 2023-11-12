@@ -1,11 +1,11 @@
 <!-- ## SOLARPUNKLAB - OSR -->
-<img src="images/osr-logo.png" alt="Logo" width = 100%>
+<img src="images/osr-logo.png" alt="Logo" width = 50%>
 
 <a name="readme-top"></a>
 <!-- PROJECT LOGO -->
-<div align="left" style="background-color: #aaa;">
+<div align="left">
 
-<img src="images/osr-banner.png" alt="Logo" width = 100%>
+<img src="images/osr-banner.png" alt="Logo" width = 90%>
 <br />
 
 </div>
@@ -41,7 +41,7 @@
 <hr>
  
  
-<table width=90% bordercolor=#000>
+<table width=100% bordercolor=#000>
 
 
 
@@ -62,7 +62,7 @@ The documentation offered in this repository is mainly used as support for a ser
 <tr>
 <td align="center" colspan=2>
 <p align="justify" id="physical">
-<img src="images/osr-physical.png" alt="Logo" width = 100%>
+<img src="images/osr-physical.png" alt="Logo" width = 90%>
 <br>
 The term <b>Physical Computing</b> defines, in a broad sense, a field of studies and practices aimed at building interactive physical systems.
 <br>
