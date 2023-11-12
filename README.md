@@ -184,7 +184,7 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <a href="code/OSR_MQ_SENSOR/OSR_MQ_SENSOR.ino">OSR_MQ_SENSOR.ino</a>
 <br><br>
 
-<img src="images/osr-adc-calibration.png" alt="mq4-connect" width = 90%>
+<img src="images/osr-adc-calibration.png" alt="mq4-connect" width = 100%>
 <br>
 <a href="https://github.com/e-tinkers/esp32-adc-calibrate">https://github.com/e-tinkers/esp32-adc-calibrate</A>
 <br><br>
@@ -196,11 +196,11 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <tr>
 <td align="center" colspan=2 width = 90%>
 <p align="justify" id="DS18D20">
-<img src="images/osr-DS18D20-sensor.png" alt="mq4" width = 90%>
+<img src="images/osr-DS18D20-sensor.png" alt="mq4" width = 100%>
 <br>
-<img src="images/osr-DS18D20-specs.png" alt="mq4" width = 90%>
+<img src="images/osr-DS18D20-specs.png" alt="mq4" width = 100%>
 <br>
-<img src="images/osr-DS18D20-connect.png" alt="mq4" width = 90%>
+<img src="images/osr-DS18D20-connect.png" alt="mq4" width = 100%>
 <br>
 <a href="code/OSR_DS18D20/OSR_DS18D20.ino">OSR_DS18D20.ino</a>
 <br><br>
@@ -249,7 +249,7 @@ COPY / PASTE the text below
 <!-- >>>>>> TABLE <<<<< -->
 <table width = 90%>
 <tr>
-<td align="left" colspan=2 id="xxxx" width = 90% >
+<td align="left" colspan=2 id="URLS" width = 90% >
 
 	https://dl.espressif.com/dl/package_esp32_index.json,
 	http://arduino.esp8266.com/stable/package_esp8266com_index.json,
@@ -257,16 +257,22 @@ COPY / PASTE the text below
 	https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json,h
 	https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json,
 	https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/STM32/package_stm_index.json
+</tr>
+</table>
 
 
+<!-- >>>>>> TABLE <<<<< -->
+<table width = 90%>
+<tr>
+<td align="left" colspan=2 id="xxxx" width = 90% >
 <br><hr>
-<img src="images/osr-sketches.png" alt="sketches" width = 90%>
+<img src="images/osr-sketches.png" alt="sketches" width = 100%>
 <br><br>
-<img src="images/osr-boards.png" alt="boards" width = 90%>
+<img src="images/osr-boards.png" alt="boards" width = 100%>
 <br><br>
-<img src="images/osr-library.png" alt="boards" width = 90%>
+<img src="images/osr-library.png" alt="boards" width = 100%>
 <br><br>
-<img src="images/osr-libraryname.png" alt="boards" width = 90%>
+<img src="images/osr-libraryname.png" alt="boards" width = 100%>
 <br><br>
 
 </tr>
