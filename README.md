@@ -220,7 +220,7 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <br>
 <a href="https://www.arduino.cc/en/software">ARDUINO IDE DOWNLOAD + INSTALL</a>
 <br><br>
-<img src="images/osr-boardmanager.png" alt="manager" width = 100%>
+<img src="images/osr-boardpref.png" alt="manager" width = 100%>
 <br><br>
 in "Addtional boards manager URLs" <br>
 COPY / PASTE the text below 
@@ -229,7 +229,8 @@ COPY / PASTE the text below
 
 <tr>
 <td align="left" colspan=2 id="xxxx">
-```https://dl.espressif.com/dl/package_esp32_index.json,
+```assembly
+https://dl.espressif.com/dl/package_esp32_index.json,
 http://arduino.esp8266.com/stable/package_esp8266com_index.json,
 https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json,
 https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json,h
