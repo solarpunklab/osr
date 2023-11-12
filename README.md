@@ -1,18 +1,15 @@
+<a name="readme-top"></a>
+<div align="center">
 <!-- ## SOLARPUNKLAB - OSR -->
 <img src="images/osr-logo.png" alt="Logo" width = 50%>
-
-<a name="readme-top"></a>
 <!-- PROJECT LOGO -->
-<div align="left">
-
 <img src="images/osr-banner.png" alt="Logo" width = 90%>
-<br />
-
+<br>
 </div>
 
-<br />
+<br>
 
-
+<div align="left" width = 90%>
 <!-- TABLE OF CONTENTS -->
 <details open>
   <summary style="background-color: #aaa;"><b>CONTENTS</b></summary>
@@ -36,13 +33,12 @@
   
   </ul>
 </details>
+</div>
 
+<br><br><hr> <br><br>
 
-<hr>
  
- 
-<table width=90% bordercolor=#000>
-
+<table width=100% bordercolor=#000>
 
 
 <tr>
