@@ -47,7 +47,7 @@
 Open Sensor Research is a project by 
 <a href="http://solarpunklab.org">SOLARPUNK LAB</a> / 
 <a href="http://hackteria.org">HACKTERIA</a> 
-aimed at the promotion and diffusion of DIY practical know-how to use sensors and microcontrollers especially for eco -oriented projects. 
+aimed at promoting DIY practices to use sensors and microcontrollers for eco -oriented projects. 
 <br> 
 The documentation offered in this repository is mainly used as support for a series of workshops to introduce newbies as well as specialists and researchers to Physical Computing and DIY environmental monitoring. <br><br>
 </tr>
@@ -114,7 +114,7 @@ It is a real microprocessor, that is, a small computer capable of processing inf
 
 <p align="justify" id="sensors">
 <b>SENSORS AND ACTUATORS </b>
-<br>
+<br><br>
 A SENSOR is a device that measures changes in a certain environment and responds with a signal to another system.
  <br>
 Both sensors and actuators are <b>transducers</b>, that is, devices capable of converting one physical quantity into another or one form of energy into another different form,
