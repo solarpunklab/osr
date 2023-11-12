@@ -212,13 +212,28 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <!-- >>>>>> TABLE <<<<< -->
 <table width = 90%>
 <tr>
-<td align="center" colspan=2 id="bme280" width = 90% >
+<td align="justify" colspan=2 id="bme280" width = 90% >
 <br>
 <img src="images/osr-BME280-sensor.png" alt="bme" width = 100%>
 <br>
 <img src="images/osr-BME-BMP280.png" alt="bmp" width = 100%>
 <br>
+<br>
+BOSCH's BMP280 is an absolute barometric pressure sensor especially designed for mobile applications. The sensor module is housed in an extremely compact package. Its small dimensions and its low power consumption allow for the implementation in battery powered devices such as mobile phones, GPS modules, or watches. 
+<br>
+<img src="images/osr-bmp280-specs.png" alt="bmp" width = 100%>
+<br>
+<br>
 <img src="images/osr-BME280-connect.png" alt="bmeconnect" width = 100%>
+<br><br>
+<a href="https://montreal.weatherstats.ca/charts/pressure_sea-hourly.html" target="pressure"> <img src="images/osr-pressure-mtl.png" alt="i2c" width = 100%>Barometric pressure at sea evel / Montreal</a>
+
+
+
+<br><br>
+<img src="images/osr-i2c.png" alt="i2c" width = 100%>
+<br>
+<img src="images/osr-bmp280-params.png" alt="bmparams" width = 100%>
 <br>
 <a href="code/OSR_BMP280/OSR_BMP280.ino">OSR_BMP280.ino</a>
 <br><br>
