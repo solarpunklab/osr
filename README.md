@@ -224,18 +224,19 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <br><br>
 in "Addtional boards manager URLs" <br>
 COPY / PASTE the text below 
-<br><hr>
+
 </tr>
 
 <tr>
 <td align="left" colspan=2 id="xxxx">
-```assembly
-https://dl.espressif.com/dl/package_esp32_index.json,
-http://arduino.esp8266.com/stable/package_esp8266com_index.json,
-https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json,
-https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json,h
-https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json,
-https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/STM32/package_stm_index.json```
+
+	https://dl.espressif.com/dl/package_esp32_index.json,
+	http://arduino.esp8266.com/stable/package_esp8266com_index.json,
+	https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json,
+	https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json,h
+	https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json,
+	https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/STM32/package_stm_index.json
+
 
 <br><hr>
 <img src="images/osr-sketches.png" alt="sketches" width = 100%>
