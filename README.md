@@ -41,12 +41,12 @@
 <hr>
  
  
-<table width=70% bordercolor=#000>
+<table width=90% bordercolor=#000>
 
 
 
-<tr width = 90%>
-<td align="center" colspan=2>
+<tr>
+<td align="center" colspan=2 width = 90% >
 <p align="justify" id="about">
 <b>ABOUT O.S.R.</b>
 <br>
@@ -60,7 +60,7 @@ The documentation offered in this repository is mainly used as support for a ser
 
 
 <tr>
-<td align="center" colspan=2>
+<td align="center" colspan=2 width = 90% >
 <p align="justify" id="physical">
 <img src="images/osr-physical.png" alt="Logo" width = 90%>
 <br>
@@ -83,7 +83,7 @@ To this end, technologies are adopted based on integrated software and hardware 
 <tr>
 <td align="center" colspan=1 width = 40%>
 <img src="images/osr-mcu-esp32.png" alt="mcu" width = 100%></td>
-<td align="justify" colspan=1>
+<td align="justify" colspan=1 width = 50% >
 The microcontroller (MCU) is a device generally used in integrated systems to carry out specific digital control applications.
 <br>
 It is a real microprocessor, that is, a small computer capable of processing information coming from both digital interfaces and analog inputs (for example sensors) and responding with output signals to analog actuators or other digital interfaces, including WiFi communications and Bluetooth.
@@ -92,7 +92,7 @@ It is a real microprocessor, that is, a small computer capable of processing inf
 </tr>
 
 <tr>
-<td align="center" colspan=2>
+<td align="center" colspan=2 width = 90% >
 <img src="images/osr-esp32-vs-arduino.png" alt="compare" width = 100%>
 <br>
 <img src="images/osr-esp32-architecture.png" alt="compare" width = 100%>
@@ -103,7 +103,7 @@ It is a real microprocessor, that is, a small computer capable of processing inf
 
 
 <tr>
-<td align="center" colspan=2>
+<td align="center" colspan=2 width = 90% >
 
 <p align="justify" id="sensors">
 <b>SENSORS AND ACTUATORS </b>
@@ -135,7 +135,7 @@ Motors, LED lights, solenoid valves are all examples of actuators that can be co
 </tr>
 
 <tr>
-<td align="center" colspan=2>
+<td align="center" colspan=2 width = 90% >
 <p align="justify" id="gpio">
 
 <b> GPIO - General Purpose Input / Output</b>
@@ -156,7 +156,7 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 </tr>
 
 <tr>
-<td align="center" colspan=2>
+<td align="center" colspan=2 width = 90% >
 
 <img src="images/osr-connecting.png" alt="mq4" width = 100%>
 <br>
@@ -181,7 +181,7 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 
 
 <tr>
-<td align="center" colspan=2>
+<td align="center" colspan=2 width = 90%>
 <p align="justify" id="DS18D20">
 <img src="images/osr-DS18D20-sensor.png" alt="mq4" width = 100%>
 <br>
@@ -194,7 +194,7 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 </tr>
 
 <tr>
-<td align="center" colspan=2 id="bme280">
+<td align="center" colspan=2 id="bme280" width = 90% >
 <br>
 <img src="images/osr-bme280-sensor.png" alt="Logo" width = 100%>
 <br>
@@ -208,7 +208,7 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 
 
 <tr>
-<td align="center" colspan=2 id="arduino">
+<td align="center" colspan=2 id="arduino" width = 90% >
 <br>
 <img src="images/osr-arduino-install.png" alt="install" width = 100%>
 <br>
@@ -228,7 +228,7 @@ COPY / PASTE the text below
 </tr>
 
 <tr>
-<td align="left" colspan=2 id="xxxx">
+<td align="left" colspan=2 id="xxxx" width = 90% >
 
 	https://dl.espressif.com/dl/package_esp32_index.json,
 	http://arduino.esp8266.com/stable/package_esp8266com_index.json,
@@ -251,7 +251,7 @@ COPY / PASTE the text below
 </tr>
 
 <tr>
-<td align="center" colspan=2 id="contact">
+<td align="center" colspan=2 id="contact" width = 90%>
 <b>CONTACT</b>
 <br>
 <a href="mailto:tez@solarpunklab.org">tez@solarpunklab.org
