@@ -202,7 +202,7 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <br>
 <img src="images/osr-DS18D20-specs.png" alt="mq4" width = 100%>
 <br>
-<img src="images/osr-DS18D20-connect.png" alt="mq4" width = 100%>
+<img src="images/osr-DS18D20-connect2.png" alt="mq4" width = 100%>
 <br>
 <a href="code/OSR_DS18D20/OSR_DS18D20.ino">OSR_DS18D20.ino</a>
 <br><br>
