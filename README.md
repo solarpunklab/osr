@@ -181,7 +181,26 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <br>
 <img src="images/osr-mq4-specs.png" alt="mq4" width = 100%>
 <br>
+<img src="images/osr-mq4-specs2.png" alt="mq4" width = 100%>
+<br>
+<img src="images/osr-mq4-pinout.png" alt="mq4" width = 100%>
+<br>
+<img src="images/osr-mq4-preheat.png" alt="mq4" width = 100%>
+<br>
 <img src="images/osr-mq4-connect.png" alt="mq4-connect" width = 100%>
+<br>
+<img src="images/osr-mq4-connect2.png" alt="mq4-connect" width = 100%>
+<br>
+<img src="images/osr-mq4-breadboard.png" alt="mq4" width = 100%>
+<br>
+<!-- made with https://ezgif.com/video-to-gif -->
+<img src="images/osr-mq4-video.gif" alt="mq4" width = 100%>
+<br><br> 
+
+<a href="https://ohmslawcalculator.com/voltage-divider-calculator">online voltage divider calculator</a>
+<br>
+
+<img src="images/osr-voltage-divider.png" alt="mq4-connect" width = 100%>
 <br>
 <a href="code/OSR_MQ_SENSOR/OSR_MQ_SENSOR.ino">OSR_MQ_SENSOR.ino</a>
 <br><br>
