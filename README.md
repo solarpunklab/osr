@@ -228,6 +228,7 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 </tr>
 </table>
 
+
 <!-- >>>>>> TABLE <<<<< -->
 <table width = 90%>
 <tr>
