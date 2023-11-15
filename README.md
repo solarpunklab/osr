@@ -274,6 +274,10 @@ BOSCH's BMP280 is an absolute barometric pressure sensor especially designed for
 <br>
 <a href="https://www.arduino.cc/en/software">ARDUINO IDE DOWNLOAD + INSTALL</a>
 <br><br>
+
+<a href="https://support.arduino.cc/hc/en-us/articles/360016495679-Fix-port-access-on-Linux"> linux problem with USB port access </a>
+
+<br><br>
 <img src="images/osr-boardpref.png" alt="manager" width = 100%>
 <br><br>
 in "Addtional boards manager URLs" <br>
