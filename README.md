@@ -175,7 +175,6 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 
 <img src="images/osr-connecting.png" alt="mq4" width = 100%>
 <br>
-
 <p align="center" id="mq4">
 <img src="images/osr-mq4-sensor.png" alt="mq4" width = 100%>
 <br>
