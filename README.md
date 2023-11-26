@@ -219,6 +219,8 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 
 <img src="images/osr-voltage-divider.png" alt="mq4-connect" width = 100%>
 <br>
+<br>
+<img src="images/code.png" alt="bmparams" width = 10%>
 <a href="code/OSR_MQ_SENSOR/OSR_MQ_SENSOR.ino">OSR_MQ_SENSOR.ino</a>
 <br><br>
 
@@ -243,6 +245,8 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <br>
 <img src="images/osr-DS18D20-connect3.png" alt="mq4" width = 100%>
 <br>
+<br>
+<img src="images/code.png" alt="bmparams" width = 10%>
 <a href="code/OSR_DS18D20/OSR_DS18D20.ino">OSR_DS18D20.ino</a>
 <br>
 <a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
@@ -277,6 +281,8 @@ BOSCH's BMP280 is an absolute barometric pressure sensor especially designed for
 <br>
 <img src="images/osr-bmp280-params.png" alt="bmparams" width = 100%>
 <br>
+<img src="images/code.png" alt="bmparams" width = 10%>
+
 <a href="code/OSR_BMP280/OSR_BMP280.ino">OSR_BMP280.ino</a>
 <br>
 <a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
@@ -308,6 +314,13 @@ The BME680 contains a MOX (Metal-oxide) sensor that detects VOCs in the air. Thi
 <br><br>
 <img src="images/osr-bme680-i2c.png" alt="bme-680-voc" width = 100%>
 <br>
+<img src="images/osr-bme680-library.png" alt="bme-680-voc" width = 50%>
+<br>
+<br>
+<img src="images/code.png" alt="bmparams" width = 10%>
+
+<a href="code/OSR_BME680_TEST/OSR_BME680_TEST.ino">OSR_BME680_TEST.ino</a>
+<br><br>
 <a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
 <br>
 </tr>
