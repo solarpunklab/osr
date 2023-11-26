@@ -51,7 +51,10 @@ Open Sensor Research is a project by
 <a href="http://hackteria.org">HACKTERIA</a> 
 aimed at promoting DIY practices to use sensors and microcontrollers for eco -oriented projects. 
 <br> 
-The documentation offered in this repository is mainly used as support for a series of workshops to introduce newbies as well as specialists and researchers to Physical Computing and DIY environmental monitoring. <br><br>
+The documentation offered in this repository is mainly used as support for a series of workshops to introduce newbies as well as specialists and researchers to Physical Computing and DIY environmental monitoring. <br>
+<br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
 </tr>
 </table>
  
