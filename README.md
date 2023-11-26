@@ -9,7 +9,7 @@
 
 <br>
 
-<div align="left" width = 90%>
+<div align="left" width = 90% id="contents">
 <!-- TABLE OF CONTENTS -->
 <details open>
   <summary style="background-color: #aaa;"><b>CONTENTS</b></summary>
@@ -23,6 +23,8 @@
 	<li><a href="#mq4"> MQ4 - Methane gas sensor module</a></li>
 	<li><a href="#DS18D20"> DS18D20 Temperature sensor</a></li>
 	<li><a href="#bme280"> BMP / BME280 I2C SENSOR</a></li>
+	<li><a href="#bme680"> BMP / BME680 I2C SENSOR</a></li>
+
   </ul>
    <br><br>
    <li><b> GENERAL</b> </li>
@@ -71,12 +73,17 @@ To this end, technologies are adopted based on integrated software and hardware 
 <img src="images/osr-physical2.png" alt="Logo" width = 100%>
 <br>
 
-<hr>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
+
 <p align="justify" id="mcu">
 <b>MCU vs MiniComputer</b>
 <br>
 <img src="images/osr-arduino-rpi.png" alt="arduino" width = 100%>
 <br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
+
 </tr>
 </table>
 
@@ -89,6 +96,9 @@ To this end, technologies are adopted based on integrated software and hardware 
 The microcontroller (MCU) is a device generally used in integrated systems to carry out specific digital control applications.
 <br>
 It is a real microprocessor, that is, a small computer capable of processing information coming from both digital interfaces and analog inputs (for example sensors) and responding with output signals to analog actuators or other digital interfaces, including WiFi communications and Bluetooth.
+<br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
 
 </tr>
 </table>
@@ -102,6 +112,9 @@ It is a real microprocessor, that is, a small computer capable of processing inf
 <img src="images/osr-esp32-vs-arduino.png" alt="compare" width = 100%>
 <br>
 <img src="images/osr-esp32-architecture.png" alt="compare" width = 100%>
+<br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
 </tr>
 </table>
 
@@ -129,15 +142,18 @@ Motors, LED lights, solenoid valves are all examples of actuators that can be co
 <br><br>
 <img src="images/osr-sensors.png" alt="physical" width = 100%>
 <br>
-
-<hr>
+<br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
 
 <p align = "center"> Examples of ACTUATORS
 <br><br>
 <img src="images/osr-act-movement.png" alt="act1" width = 100%>
 <br>
 <img src="images/osr-act-lightsound.png" alt="act1" width = 100%>
-<br><br>
+<br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
 
 </tr>
 </table>
@@ -163,6 +179,8 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <img src="images/osr-doit-expander.png" alt="doitexp" width =100%>
 <br>
 <img src="images/osr-selectboard.png" alt="doitexp" width =100%>
+<br><br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
 <br>
 </tr>
 </table>
@@ -207,7 +225,10 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <img src="images/osr-adc-calibration.png" alt="mq4-connect" width = 100%>
 <br>
 <a href="https://github.com/e-tinkers/esp32-adc-calibrate">https://github.com/e-tinkers/esp32-adc-calibrate</A>
-<br><br>
+<br>
+<br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
 </tr>
 </table>
 
@@ -223,7 +244,9 @@ Each microcontroller has its own specific set of GPIOs with specific functions, 
 <img src="images/osr-DS18D20-connect3.png" alt="mq4" width = 100%>
 <br>
 <a href="code/OSR_DS18D20/OSR_DS18D20.ino">OSR_DS18D20.ino</a>
-<br><br>
+<br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
 </tr>
 </table>
 
@@ -255,8 +278,41 @@ BOSCH's BMP280 is an absolute barometric pressure sensor especially designed for
 <img src="images/osr-bmp280-params.png" alt="bmparams" width = 100%>
 <br>
 <a href="code/OSR_BMP280/OSR_BMP280.ino">OSR_BMP280.ino</a>
-<br><br>
+<br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
 </tr>
+
+
+<tr>
+<td align="justify" colspan=2 id="bme680" width = 90% >
+<br>
+<img src="images/osr-bme680.png" alt="bme-680" width = 100%>
+<br>
+The BME680 is a 4-in-1 digital sensor that measures:
+<ul>
+<li>Temperature
+<li>Humidity</item>
+<li>Barometric pressure</item>
+<li>Gas: Volatile Organic Compounds (VOC) like ethanol and carbon monoxide</item>
+</ul>
+
+<br><br>
+The BME680 contains a MOX (Metal-oxide) sensor that detects VOCs in the air. This sensor gives you a qualitative idea of the sum of VOCs/contaminants in the surrounding air – <b>it is not specific </b>for a specific gas molecule.
+<br><br>
+<img src="images/osr-bme680-voc.png" alt="bme-680-voc" width = 100%>
+<br><br>
+<img src="images/osr-bme680-accuracy.png" alt="bme-680-voc" width = 100%>
+<br><br>
+<img src="images/osr-bme680-operation.png" alt="bme-680-voc" width = 100%>
+<br><br>
+<img src="images/osr-bme680-i2c.png" alt="bme-680-voc" width = 100%>
+<br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
+</tr>
+
+
 </table>
 
 <!-- >>>>>> TABLE <<<<< -->
@@ -282,7 +338,6 @@ BOSCH's BMP280 is an absolute barometric pressure sensor especially designed for
 <br><br>
 in "Addtional boards manager URLs" <br>
 COPY / PASTE the text below 
-
 </tr>
 </table>
 
@@ -296,6 +351,7 @@ https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectron
 https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json,h
 https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json,
 https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/STM32/package_stm_index.json
+
 </tr>
 </table>
 
@@ -304,7 +360,10 @@ https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/STM32/pack
 <table width = 90%>
 <tr>
 <td align="left" colspan=2 id="xxxx" width = 90% >
-<br><hr>
+<br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
+<br>
 <img src="images/osr-sketches.png" alt="sketches" width = 100%>
 <br><br>
 <img src="images/osr-boards.png" alt="boards" width = 100%>
@@ -314,7 +373,10 @@ https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/STM32/pack
 <img src="images/osr-libraryname.png" alt="boards" width = 100%>
 <br><br>
 <img src="images/osr-select-board.png" alt="boards" width = 100%>
-<br><br>
+<br>
+<br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
 
 </tr>
 
@@ -324,7 +386,10 @@ https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/STM32/pack
 <br>
 <a href="mailto:tez@solarpunklab.org">tez@solarpunklab.org
 </a>
-<br><br>
+<br>
+<br>
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
 </tr>
 
 
@@ -340,4 +405,3 @@ END COMMENT  -->
 </tr>
 </table>
 
-<hr>
