@@ -30,6 +30,7 @@
    <li><b> GENERAL</b> </li>
    <ul>
    		<li><a href="#arduino"> ARDUINO INSTALL</a> </li>
+   		<li><a href="#wifi"> ESP32 WIFI MODES</a> </li>
 	   <li><a href="code/"> CODE</a> </li>
 	   <li><a href="#contact"> CONTACT</a> </li>
   
@@ -392,6 +393,33 @@ https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/STM32/pack
 <br>
 
 </tr>
+
+<tr>
+<td align="justify" colspan=2 id="wifi" width = 90%>
+<img src="images/ESP32-WIFI.png" alt="esp32-wifi" width = 100%>
+<br><br>
+The ESP32 board can act as Wi-Fi Station, Access Point or both. To set the Wi-Fi mode, use WiFi.mode() and set the desired mode as argument.
+<br><br>
+<img src="images/ESP32-WIFI-MODES.png" alt="wifi-sta" width = 100%>
+<br>
+<br>
+<img src="images/ESP32-WIFI-STA.png" alt="wifi-sta" width = 100%>
+<br>
+<img src="images/ESP32-WIFI-AP.png" alt="wifi-AP" width = 100%>
+<br>
+<img src="images/ESP32-WIFI-STATUS.png" alt="wifi-AP" width = 100%>
+<br>
+<br>
+<hr>
+<a href="https://randomnerdtutorials.com/esp32-useful-wi-fi-functions-arduino/">ESP32 WiFi Functions</a>
+<hr>
+<br>
+
+<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
+<br>
+
+</tr>
+
 
 <tr>
 <td align="center" colspan=2 id="contact" width = 90%>
