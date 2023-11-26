@@ -99,9 +99,6 @@ To this end, technologies are adopted based on integrated software and hardware 
 The microcontroller (MCU) is a device generally used in integrated systems to carry out specific digital control applications.
 <br>
 It is a real microprocessor, that is, a small computer capable of processing information coming from both digital interfaces and analog inputs (for example sensors) and responding with output signals to analog actuators or other digital interfaces, including WiFi communications and Bluetooth.
-<br>
-<a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
-<br>
 
 </tr>
 </table>
