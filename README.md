@@ -400,8 +400,8 @@ https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/STM32/pack
 
 </tr>
 
-<tr>
-<td align="justify" colspan=2 id="wifi" width = 90%>
+<tr >
+<td align="justify" colspan=2 id="wifi" width = 90% bgcolor="#00cc77">
 <img src="images/ESP32-WIFI.png" alt="esp32-wifi" width = 100%>
 <br><br>
 The ESP32 board can act as Wi-Fi Station, Access Point or both. To set the Wi-Fi mode, use WiFi.mode() and set the desired mode as argument.
