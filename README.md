@@ -322,6 +322,12 @@ The BME680 contains a MOX (Metal-oxide) sensor that detects VOCs in the air. Thi
 
 <a href="code/OSR_BME680_TEST/OSR_BME680_TEST.ino">OSR_BME680_TEST.ino</a>
 <br><br>
+
+<img src="images/code.png" alt="bme_web" width = 10%>
+<a href="code/OSR_BMP280_WEBSERVER/OSR_BMP280_WEBSERVER.ino">OSR_BMP280_WEBSERVER.ino</a>
+<br><br>
+
+
 <a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
 <br>
 </tr>
@@ -405,16 +411,44 @@ The ESP32 board can act as Wi-Fi Station, Access Point or both. To set the Wi-Fi
 <br>
 <img src="images/ESP32-WIFI-STA.png" alt="wifi-sta" width = 100%>
 <br>
+<hr>
+<br>
 <img src="images/ESP32-WIFI-AP.png" alt="wifi-AP" width = 100%>
+<br>
+<hr>
 <br>
 <img src="images/ESP32-WIFI-STATUS.png" alt="wifi-AP" width = 100%>
 <br>
+<img src="images/ESP32-WIFI-RSSI.png" alt="wifi-AP" width = 100%>
+<br>
 <br>
 <hr>
-<a href="https://randomnerdtutorials.com/esp32-useful-wi-fi-functions-arduino/">ESP32 WiFi Functions</a>
-<hr>
-<br>
 
+<img src="images/code.png" alt="bmparams" width = 10%>
+<a href="code/ESP32_WIFI_SCANNER/ESP32_WIFI_SCANNER.ino">ESP32_WIFI_SCANNER.ino</a>
+<br><br>
+
+<img src="images/code.png" alt="bmparams" width = 10%>
+<a href="code/ESP32_WIFI_CONNECT/ESP32_WIFI_CONNECT.ino">ESP32_WIFI_CONNECT.ino</a>
+<br><br>
+
+<img src="images/code.png" alt="bmparams" width = 10%>
+<a href="code/ESP32_WIFI_AP/ESP32_WIFI_AP.ino">ESP32_WIFI_AP.ino</a>
+<br><br>
+
+
+
+
+
+<hr>
+
+<p align = center>
+<a href="https://randomnerdtutorials.com/esp32-useful-wi-fi-functions-arduino/" target="new">ESP32 WiFi Functions</a>
+: : : 
+<a href="https://deepbluembedded.com/esp32-wifi-library-examples-tutorial-arduino/" target="new">ESP32 WiFi Tutorial</a>
+</p>
+
+<hr>
 <a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
 <br>
 
