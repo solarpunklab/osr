@@ -323,7 +323,6 @@ The BME680 contains a MOX (Metal-oxide) sensor that detects VOCs in the air. Thi
 <br>
 <br>
 <img src="images/code.png" alt="bmparams" width = 10%>
-
 <a href="code/OSR_BME680_TEST/OSR_BME680_TEST.ino">OSR_BME680_TEST.ino</a>
 <br><br>
 
