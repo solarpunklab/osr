@@ -307,7 +307,8 @@ The BME680 is a 4-in-1 digital sensor that measures:
 <br><br>
 The BME680 contains a MOX (Metal-oxide) sensor that detects VOCs in the air. This sensor gives you a qualitative idea of the sum of VOCs/contaminants in the surrounding air – <b>it is not specific </b>for a specific gas molecule.
 <br><br>
-<img src="images/osr-bme680-voc.png" alt="bme-680-voc" width = 100%>
+<a href="https://randomnerdtutorials.com/esp32-bme680-sensor-arduino/" target="new">
+<img src="images/osr-bme680-voc.png" alt="bme-680-voc" width = 100%></a>
 <br><br>
 <img src="images/osr-bme680-accuracy.png" alt="bme-680-voc" width = 100%>
 <br><br>
@@ -324,8 +325,32 @@ The BME680 contains a MOX (Metal-oxide) sensor that detects VOCs in the air. Thi
 <br><br>
 
 <img src="images/code.png" alt="bme_web" width = 10%>
-<a href="code/OSR_BMP280_WEBSERVER/OSR_BMP280_WEBSERVER.ino">OSR_BMP280_WEBSERVER.ino</a>
+<a href="code/OSR_BME680_WEBSERVER/OSR_BME680_WEBSERVER.ino">OSR_BME680_WEBSERVER.ino</a>
 <br><br>
+
+<img src="images/osr-boardnumber.png" alt="bmparams" width = 100%>
+<br>
+<img src="images/osr-bme680-gas.png" alt="bmparams" width = 100%>
+<br>
+<img src="images/osr-bme60-observations.png" alt="bmparams" width = 100%>
+
+<table>
+<tr>
+<td>521177 - 431331 </td> <td> good </td>
+<tr>
+<td>297625 - 213212 </td> <td> average </td>
+<tr>
+<td>148977 - 108042 </td> <td> little bad </td>
+<tr>
+<td>575010 - 54586 </td> <td> bad </td>
+<tr>
+<td>37395 - 27080 </td> <td> worse </td>
+<tr>
+<td>18761 - 13591 </td> <td> very bad </td>
+<tr>
+<td>9008 - 8371 </td> <td> can't see the exit </td>
+</tr>
+</table>
 
 
 <a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>

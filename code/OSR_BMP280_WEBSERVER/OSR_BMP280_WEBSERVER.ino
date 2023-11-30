@@ -18,8 +18,8 @@ Adafruit_BMP280 bmp; // I2C
 
 
 // Replace with your network credentials
-// const char* ssid = "Xenolalia";
-// const char* password = "EuglenaNeuron";
+const char* ssid = "TezNet"; 
+const char* password = "teznet23";
 const char* ssid = "YOUR_NETWORK_ID"; 
 const char* password = "YOUR_PASSWORD";
 
