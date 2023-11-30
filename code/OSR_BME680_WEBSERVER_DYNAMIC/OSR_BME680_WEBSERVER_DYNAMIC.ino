@@ -61,7 +61,7 @@ void getBME680Readings(){
     Serial.println(" %");
 
     gas = bme.gas_resistance / 1000.0;
-    Serial.print(F("Gas esistance = "));
+    Serial.print(F("Gas resistance = "));
     Serial.print(gas);
     Serial.println(" KOhms");   
 
@@ -219,6 +219,9 @@ if (!!window.EventSource) {
  }, 10000);
 }
 </script>
+
+<div> <p> powered by <b> CHAT GPT </b> </p> </div>
+
 
 </body>
 </html>)rawliteral";
