@@ -316,7 +316,8 @@ The BME680 contains a MOX (Metal-oxide) sensor that detects VOCs in the air. Thi
 <br><br>
 <img src="images/osr-bme680-i2c.png" alt="bme-680-voc" width = 100%>
 <br>
-<img src="images/osr-bme680-library.png" alt="bme-680-voc" width = 50%>
+<img src="images/osr-bme680-library.png" alt="bme-680-voc" width = 48%>
+<img src="images/osr-BSEC.png" alt="bme-680-voc" width = 48%>
 <br>
 <br>
 <img src="images/code.png" alt="bmparams" width = 10%>
@@ -328,11 +329,17 @@ The BME680 contains a MOX (Metal-oxide) sensor that detects VOCs in the air. Thi
 <a href="code/OSR_BME680_WEBSERVER/OSR_BME680_WEBSERVER.ino">OSR_BME680_WEBSERVER.ino</a>
 <br><br>
 
-<img src="images/osr-boardnumber.png" alt="bmparams" width = 100%>
+<img src="images/code.png" alt="bme_web" width = 10%>
+<a href="code/OSR-BME680-BSEC-BASIC/OSR-BME680-BSEC-BASIC.ino">OSR-BME680-BSEC-BASIC.ino</a>
+<br><br>
+
+
+
+<img src="images/osr-boardnumber.png" alt="boardnum" width = 100%>
 <br>
-<img src="images/osr-bme680-gas.png" alt="bmparams" width = 100%>
+<img src="images/osr-bme680-gas.png" alt="bme680-gas" width = 100%>
 <br>
-<img src="images/osr-bme60-observations.png" alt="bmparams" width = 100%>
+<a href="https://forums.pimoroni.com/t/bme680-observed-gas-ohms-readings/6608/23"><img src="images/osr-bme60-observations.png" alt="bme680-obs" width = 100%></a>
 
 <table>
 <tr>
@@ -351,6 +358,10 @@ The BME680 contains a MOX (Metal-oxide) sensor that detects VOCs in the air. Thi
 <td>9008 - 8371 </td> <td> can't see the exit </td>
 </tr>
 </table>
+
+<a href="https://community.bosch-sensortec.com/t5/MEMS-sensors-forum/BME680-VOC-classification/td-p/26154"><img src="images/osr-indoor-air.png" alt="bme680-indoor-air" width = 100%></a>
+
+<img src="images/osr-bsec-output.png" alt="bme680-indoor-air" width = 100%>
 
 
 <a href="#contents"><img src="images/back.png" alt="Logo" width = 100%></A>
