@@ -181,7 +181,45 @@ if (!!window.EventSource) {
 
  
 }
+
+if (!!window.EventSource) {
+ var source = new EventSource('/events');
+ 
+ source.addEventListener('open', function(e) {
+  console.log("Events Connected");
+ }, false);
+ source.addEventListener('error', function(e) {
+  if (e.target.readyState != EventSource.OPEN) {
+    console.log("Events Disconnected");
+  }
+ }, false);
+ 
+ source.addEventListener('message', function(e) {
+  console.log("message", e.data);
+ }, false);
+ 
+ source.addEventListener('temperature_Celsius', function(e) {
+  console.log("temperature", e.data);
+  document.getElementById("temp_celcius").innerHTML = e.data;
+ }, false);
+ 
+ source.addEventListener('temperature_Fahrenheit', function(e) {
+  console.log("temperature", e.data);
+  document.getElementById("temp_fahrenheit").innerHTML = e.data;
+ }, false);
+
+  source.addEventListener('temperature', function(e) {
+  console.log("temperature", e.data);
+  document.getElementById("temperature_").innerHTML = e.data;
+ }, false);
+
+ // Add the following lines to reload the page every 20 seconds
+ setInterval(function(){
+    location.reload();
+ }, 10000);
+}
 </script>
+
 </body>
 </html>)rawliteral";
 
@@ -281,6 +319,5 @@ void loop() {
    lastTime = millis();
   }
 }
-
 
 
