@@ -468,6 +468,14 @@ The ESP32 board can act as Wi-Fi Station, Access Point or both. To set the Wi-Fi
 <br>
 <br>
 <hr>
+<a href="https://deepbluembedded.com/esp32-hostname-change-arduino/"><img src="images/ESP32-WIFI-hostname.png" alt="wifi-AP" width = 100%></a>
+<br>
+<img src="images/ESP32-WIFI-hostname-code.png" alt="wifi-AP" width = 100%>
+<br>
+<br>
+<hr>
+<br>
+<hr>
 
 <img src="images/code.png" alt="bmparams" width = 10%>
 <a href="code/ESP32_WIFI_SCANNER/ESP32_WIFI_SCANNER.ino">ESP32_WIFI_SCANNER.ino</a>
@@ -480,9 +488,6 @@ The ESP32 board can act as Wi-Fi Station, Access Point or both. To set the Wi-Fi
 <img src="images/code.png" alt="bmparams" width = 10%>
 <a href="code/ESP32_WIFI_AP/ESP32_WIFI_AP.ino">ESP32_WIFI_AP.ino</a>
 <br><br>
-
-
-
 
 
 <hr>
